@@ -11,13 +11,15 @@
 # Description:
 
 	In this project I have written scripts which, to my knowledge, satisfy every section of the five tasks. 
-	See screen captures 1 - 15 which I have uploaded to this repository. They show main features that we were required to create.
+	See screen captures 1 - 11 which I have uploaded to this repository. They show main features that we were required to create.
 
 # Activation of a script:
- 
-	(1) Run the scripts in the order that they appear.
 
-    (2) Please be aware that in the Solutions.SQL file I have written some additional code which verifies my answers.
+    (1) Locate the scripts by opening the folder in the GitLab repository called Employees_SQL. 
+ 
+	(2) Run the scripts in the order that they appear.
+
+    (3) Please be aware that in the Solutions.SQL file I have written some additional code which verifies my answers.
     
     
 # Support
