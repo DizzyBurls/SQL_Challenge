@@ -30,7 +30,7 @@
 
 # Contributions
 
-    As this is a piece of work that is going to be assessed, i think that it would be wise for me to suggest that contributions NOT be made to this module.
+    As this is a piece of work that is going to be assessed, I think that it would be wise for me to suggest that contributions NOT be made to this module.
 
 # Authors and Acknowledgments
 
