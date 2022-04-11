@@ -12,6 +12,7 @@
 
 	In this project I have written scripts which, to my knowledge, satisfy every section of the five tasks. 
 	See screen captures 1 - 11 which I have uploaded to this repository. They show main features that we were required to create.
+    There are also PNG files showing the two graphs from the Bonus section.
 
 # Activation of a script:
 
